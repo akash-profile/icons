@@ -12,8 +12,13 @@ This stylesheet has five different class of icon styles :-
 4. `.material-icons-sharp` for sharp icons.
 5. `.material-icons-two-tone` for two tone icons.
 
+Copy the [Direct Link](https://akash-profile.github.io/icons/material-icons.css)
+
 ## material-symbols.css
 This stylesheet has three different class of icon styles :-
 1. `.material-symbols-outlined` for outlined icons
 2. `.material-symbols-rounded` for rounded icons.
 3. `.material-symbols-sharp` for sharp icons.
+
+Copy the [Direct Link](https://akash-profile.github.io/icons/material-symbols.css)
+
